@@ -1,0 +1,15 @@
+01:J2KpcoAbuql8U         ||||       drink
+02:PU/dGdAVlBvMw         ||||       all
+03:MZLzIKG.XL9GE         ||||       the
+04:YYsBUtwzeoJqM         ||||       booze
+05:$1$7TBqF/dR$no7Ql63c.FhX1Udl7t1Ws.	    ||||     hack
+06:$1$06bhZHCs$iNkfXQwwkMzXGxSfQTyw6/       ||||     all
+07:$1$uymtXSqy$BR/ZZfPWhoX0wntRq3QtO0       ||||     the
+08:$1$n7GL0.6g$pjv5N8FZAIpdGmbTHGRB30       ||||     things
+09:$1$gbigI1Qh$1eGGYwYi2r4zdrgh8Xzyo0       ||||     dedicated
+10:$6$cBqA5xLZVRriv.u/$swKMycBkvyi2RhL6gHvxxwqnWobOE4pRBkyH.hHOA5xyr2nttM5eOLDMjxyWDCL.ngbQ2T47bBwkMUkuB/VUo1       ||||     to
+11:$6$tn8ELZASfBa0oMmE$142wF.JRnWgaOSsyXh/WCiuc7ZKWquN7StAA6X3lbUlM.G0nmfxDM.TrPX7e19lvltTeDUXXoNTJfDwzPBE2d.       ||||     all
+12:$6$EUPTdRD4oHlripYb$EW4KkzaSx.M0UXXg1GvHXb3D.UNPBuAVtmAr.NO2GzcDGFpDrLXmcJ9EqBuyGLerbVI/hXiKrpJWbXf4zAQTJ1       ||||     the
+13:$6$sfnr6Bk3vgABiniV$YLvIcvqmqiYGcLy8ZwRScnHHhKs2mk7ixK9BGTQMp.1JlWnb06LE9nImpWJgNuCm9tWVcWJjxmyXd.xOsye2v0       ||||     hackers
+
+CTF{drink_all_the_booze_hack_all_the_things_dedicated_to_all_the_hackers}
