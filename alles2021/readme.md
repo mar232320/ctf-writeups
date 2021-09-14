@@ -2,7 +2,7 @@ The [modified version](https://github.com/mar232320/ctf-writeups/raw/main/alles2
 
 I made a [script](http://) to find differences in this two compiled files which had the same length 1605
 
-```
+```python
 org = open("orginal.pyc").read()
 mod = open("modified.pyc").read()
 
