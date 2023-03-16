@@ -3,3 +3,5 @@ token was a crypto challenge that I got first first blood on. In the [source cod
 aes pads to multiple of 16 bytes. So, when you input 'gary' it encrypts (16 - length(input) mod 16) * char(16 - length(input) mod 16) == 'gary\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c\x0c' . I immediately knew that it's a padding attack. I submitted this prepared padded message. However, although the length mod 16 is 0 it pads another 16 bytes with \x10 Since aes is a block cipher, I know what is in the last block and therefore I can throw it out. The server then decrypts the prepared message, unpads it as I wish and authenticates me as gary. Then the only thing I had to do is submitting the flag :)
 
 The solution can be found in [solve.py](solve.py)
+
+> flag{gary_gary_gary_gary_gary_gary}
